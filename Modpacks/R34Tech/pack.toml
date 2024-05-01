@@ -1,0 +1,13 @@
+name = "Fap Tech"
+author = "Lotus"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "00a27e80d5a23b97cf2e285d99c997db0baede4edb60d0e7339770b96618618b"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

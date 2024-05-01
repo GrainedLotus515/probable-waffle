@@ -1,0 +1,86 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "b21ce4112e1f9581a2545c85d0d96fef04751906d8fa98dbb04035d777ba4516"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "14ef6f743ca772d4a4f555392cb8013b9420b3a16e3818c8280ef115c5aa6568"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b5e00cb8cf4446d1213033b769343b60be1cb328c0dfbe0282f34c12a3f2ed96"
+metafile = true
+
+[[files]]
+file = "mods/fapcraft.pw.toml"
+hash = "963490d0d9f4b0823ef7d49ba60df5b8bdb39863724015985dd3b54cde0ba8b1"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "b947ee2ed66177ece6897c549a5f525b94d20f16b354d9539d8d13f0fd480b10"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "ee4ab6043487a0c6122801cdb0ec4fd9b4182ef6a0238ecc91a44420ba81dccf"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "b331cd5abf26c16e9a3f2504534e2bb6f8527506fc5b8e9cfad96c7c779c74c6"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "ad1cbcb45a295913115227ab17d09460cd86ddde624d3ecf04cee7b5d07a2c03"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "585af8e8ddd35f290d39127c22d133b803ca2ff36eb2994fa11bf33d2e9bf9f2"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "a9534d73df10ac0b2a91ef645ca7ad7ca2d7f51de82c276123cc364236cd0d65"
+metafile = true
+
+[[files]]
+file = "mods/mixinbooter.pw.toml"
+hash = "622537a24372ed1329b300b9cab2aeb3052ef5b9526fc786dbc55fa248062a93"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "f25c40ccfc73a977c4e47363326dd4cbe727e16ee86cb361d90ee8d463ceea83"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "1a254bf59f4603c9914766cd51ba3135970cf820d2387d8eb5ad6999726d92c3"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "c0c9efb391f03e7001662032568358ca87d4789d2b9f68c1835a9ce5b572ddb2"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "5d60a45527390f005af7ece149253216221cb9f0e27ac096bf0b852c2de04964"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "60b0904158d12d86e03c3a9a60784dc2e8506b0009198a24c186ba72a3992381"
+metafile = true
