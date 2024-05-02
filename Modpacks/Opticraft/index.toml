@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e256b55ec94408fd32ba3963fb21cd54718a087134ed24ea2c4c660f25bae977"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "316e3651e847a18b33175405e6d0fc7c1a2f417505c958003c0c7e3c3ea53a99"
 metafile = true
 
 [[files]]
@@ -88,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "e568bb1a3bbe4838667066438c3818ff6133ac58e07f5e3ba84d814304d77f9f"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "4e87ee9b05c48cf4ca532f455de6d21d1c7c6adae8f90f9020d7ca0a159472b9"
 metafile = true
 
 [[files]]
